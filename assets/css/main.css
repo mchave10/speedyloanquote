@@ -721,13 +721,13 @@ br + .apex-readmore {
 	}
 
 .apex-hero-menu-container a i.fa {
-		display: block;
-		font-size: 32px;
-		line-height: 32px;
-		color: #FFF;
-		margin: 20px 0 6px;
-		-webkit-transition: margin .25s ease;   
-		transition: margin .25s ease;
+		    display: block;
+    font-size: 32px;
+    line-height: 32px;
+    color: #FFF;
+    padding: 0px 0 6px;
+    -webkit-transition: margin .25s ease;
+    transition: margin .25s ease;
 	}
 
 	@media (min-width: 768px) {
