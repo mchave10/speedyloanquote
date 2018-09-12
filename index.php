@@ -8,7 +8,7 @@
   <meta name='robots' content='noindex,follow'>
   
   <!-- Page Title -->
-  <title>Speedy Loan Quote - </title>
+  <title>Speedy Loan Quote - Loan and Insurance Resources </title>
   
   <!-- Favicons -->
   <link rel="icon" type="image/png" href="assets/images/favicon.png">
@@ -229,7 +229,7 @@
 		                	<!-- Start round icon -->
 		                	<a href="#" class="apex-icon-round">
 		                		<span class="apex-icon">
-		                			<i class="apex-icon-download"></i>
+		                			<i class="fa fa-hand-point-up"></i>
 		                		</span>
 		                		<span class="apex-icon-title">Choose Loan Type</span>
 		              		</a>
@@ -237,7 +237,7 @@
 		                </p>
 		
 		                <p class="text-center">
-		                	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+		                	From small business to mortgage lenders, we provide you with the best possible loan resource companies in the industry.
 		                	<br/>
 			                <a class="apex-readmore" href="#apex-hero">Choose Loan Type</a>
 		                </p>
@@ -258,7 +258,7 @@
 		                </p>
 		
 		                <p class="text-center">
-		                	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+		                	No need to dial or go anywhere. You can process your loan online and receive answers in just minutes.
 		                	<br/>
 			                <a class="apex-readmore" href="#apex-hero">Choose Loan Type</a>
 		                </p>
@@ -279,7 +279,7 @@
 		                </p>
 		
 		                <p class="text-center">
-		                	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+		                	Once you receive your quote or receive the answers you need. You can receive your loan in as little as 36 hours.
 		                	<br/>
 			                <a class="apex-readmore" href="#apex-hero">Choose Loan Type</a>
 		                </p>
@@ -292,7 +292,7 @@
 		                	<!-- Start round icon -->
 		                	<a href="#" class="apex-icon-round">
 		                		<span class="apex-icon">
-		                			<i class="apex-icon-tea"></i>
+		                			<i class="fa fa-user-check"></i>
 		                		</span>
 		                		<span class="apex-icon-title">Achieve Your Goals</span>
 		              		</a>
@@ -300,7 +300,7 @@
 		                </p>
 		
 		                <p class="text-center">
-		                	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+		                	Getting a loan online has never been easier and you can get it done in just minutes.
 		                	<br/>
 			                <a class="apex-readmore" href="#apex-hero">Choose Loan Type</a>
 		                </p>
