@@ -688,6 +688,7 @@ br + .apex-readmore {
 		display: inline-block;
 		padding: 5px;
 		margin-left: -3px;
+        vertical-align: top;
 	}
 	.apex-hero-menu-container a {
 		position: relative;
